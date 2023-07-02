@@ -1,7 +1,7 @@
 # VRC 3D cam
 VRC 3D cam is a custom camera that fakes a 3D perspective. by using face tracking the camera gets moved around making it look like your monitor is a window to the virtual world. all for the price of nothing
 
-https://github.com/kbruins/VRC_3D_cam/blob/main/images%20and%20videos/3D%20cam%20preview.mp4
+https://github.com/kbruins/VRC_3D_cam/assets/38865596/8979789d-8af3-4c12-81e4-fb541a4c0e47
 
 # requirements:
 
